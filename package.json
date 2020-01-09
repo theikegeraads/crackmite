@@ -1,0 +1,12 @@
+{
+  "name": "crackmite",
+  "version": "1.0.0",
+  "description": "diekeeee heeuueueue",
+  "main": "index.js",
+  "author": "Theike",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "path": "^0.12.7"
+  }
+}
