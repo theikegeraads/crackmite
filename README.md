@@ -1,0 +1,2 @@
+# crackmite
+crackmite discord bot
