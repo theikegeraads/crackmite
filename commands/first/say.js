@@ -1,3 +1,4 @@
+const Discord = require('discord.js')
 const { Command } = require('discord.js-commando');
 
 module.exports = class SayCommand extends Command {
@@ -19,6 +20,6 @@ module.exports = class SayCommand extends Command {
 	}
 
 	run(message, { text }) {
-		return message.reply(text);
+		return message.channel.send(text);
 	}
 };
