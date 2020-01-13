@@ -10,4 +10,4 @@ If you *do* chose to run this locally for some odd reason, then here's how:
 1. Install all dependencies with `npm i` or `npm install`
 2. Run the main bot file with `node server.js`
 
-The license is available [here](https://github.com/theikegeraads/crackmite/LICENCE).
+The license is available [here](https://github.com/theikegeraads/crackmite/LICENSE).
