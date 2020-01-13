@@ -20,6 +20,6 @@ client.registry.registerDefaultTypes()
 
 client.once('ready', () => {
     console.log(`Ready! Currently in ${client.guilds.size} guilds.`);
-    client.user.setStatus('dnd');
+    client.user.setStatus('idle');
 });
 client.login(token).then().catch(`Error logging in: ${console.error}`);
